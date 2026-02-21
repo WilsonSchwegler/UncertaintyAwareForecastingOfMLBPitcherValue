@@ -12,6 +12,14 @@ To study this, the project compares models trained on **nested feature sets**, p
 
 ---
 
+## Related Writing
+
+A blog post describing a case study using this project can be found here:
+
+👉 **https://wilsonschwegler.github.io/blogs/uncertainty-war.html**
+
+---
+
 ## Methodology
 
 The modeling pipeline consists of two main components:
@@ -72,14 +80,6 @@ These findings are exploratory and subject to further validation.
 
 **Note:**  
 **datasets are not included** in this repository.
-
----
-
-## Related Writing
-
-A blog post describing a case study using this project can be found here:
-
-👉 **https://wilsonschwegler.github.io/blogs/uncertainty-war.html**
 
 ---
 
