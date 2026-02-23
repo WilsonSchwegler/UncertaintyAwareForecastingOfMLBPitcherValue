@@ -93,4 +93,4 @@ This project is under active development and is intended to evolve into a more c
 
 ## Contact
 
-If you have questions or would like to discuss this work, feel free to reach out.
+If you have questions or would like to discuss this work, feel free to reach out via email or LinkedIn.
